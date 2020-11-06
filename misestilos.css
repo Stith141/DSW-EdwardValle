@@ -13,6 +13,11 @@ body{
     background-color: #808080;
     width: auto;
 }
+.submenu{
+    padding: 9px;
+    background-color: #808080;
+    width: 150px;
+}
 .tabla{
     width: 80%;
     margin: 40px;
@@ -26,10 +31,13 @@ body{
 .twitter{
     padding: 3px; margin: 2px; border: 1px solid #808080; width: 250px;float: left; height:100px; widows: 100px;
 }
-.twitter01{
-    padding: 3px; margin: 2px; border: 1px solid #808080;width: 250px; float: left; height:100px; widows: 100px;
+.imagen{
+    width: 550px; height:300px; 
 }
 .parrafo{
     float: left;
+}
+.central{
+    text-align: center;font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
 }
 
