@@ -1,0 +1,35 @@
+body{
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;text-align: justify;
+}
+
+.titulos{
+    text-align: center;
+    font-size: larger;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+        
+}
+.menu{
+    padding: 20px;
+    background-color: #808080;
+    width: auto;
+}
+.tabla{
+    width: 80%;
+    margin: 40px;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    text-align: justify;
+}
+.logo { 
+    padding: 2px; margin: 2px; border: 1px solid #808080;float: right; height:150px;width: 200px;
+     
+}
+.twitter{
+    padding: 3px; margin: 2px; border: 1px solid #808080; width: 250px;float: left; height:100px; widows: 100px;
+}
+.twitter01{
+    padding: 3px; margin: 2px; border: 1px solid #808080;width: 250px; float: left; height:100px; widows: 100px;
+}
+.parrafo{
+    float: left;
+}
+
